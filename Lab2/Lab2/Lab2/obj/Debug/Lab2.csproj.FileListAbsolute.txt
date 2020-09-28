@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Learning\Объектно ориентированное программирование\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\user\Desktop\Learning\Объектно ориентированное программирование\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\user\Desktop\Learning\Объектно ориентированное программирование\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\user\Desktop\Learning\Объектно ориентированное программирование\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Learning\Объектно ориентированное программирование\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\user\Desktop\Learning\Объектно ориентированное программирование\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\user\Desktop\Learning\Объектно ориентированное программирование\Lab2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
